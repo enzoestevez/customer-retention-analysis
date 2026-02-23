@@ -1,2 +1,2 @@
 # customer-retention-analysis
-End-to-end customer retention and revenue concentration analysis using Olist e-commerce dataset.
+This project analyzes customer behavior in a Brazilian e-commerce market to assess revenue concentration, retention dynamics, and structural business risk.
